@@ -1,0 +1,1 @@
+1) Escreva um programa que apresente todos os ímpares de 1 até 99.
